@@ -88,4 +88,6 @@ Uma aplicação web moderna e responsiva para explorar e gerenciar uma coleção
 
 
 
-<a href="https://www.linkedin.com/in/arthur-lima-027581326/" <i class="fab fa-linkedin text-xl"></i></a>
+## Contato:
+
+<a href="https://www.linkedin.com/in/arthur-lima-027581326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">

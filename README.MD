@@ -3,6 +3,8 @@
 ### LINK DO PROJETO =
 https://limmazk.github.io/biblioteca-online/
 
+### Sobre
+
 Uma aplicação web moderna e responsiva para explorar e gerenciar uma coleção de livros digitais. Desenvolvida com HTML5, CSS3 e JavaScript, oferece uma experiência de usuário intuitiva e recursos avançados de busca e organização.
 
 
